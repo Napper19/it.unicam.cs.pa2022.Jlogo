@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"it.unicam.cs.pa2022.Jlogo"},{"l":"it.unicam.cs.pa2022.Jlogo.controllers"},{"l":"it.unicam.cs.pa2022.Jlogo.model"},{"l":"it.unicam.cs.pa2022.Jlogo.utility"},{"l":"it.unicam.cs.pa2022.Jlogo.view"}];updateSearchResults();
